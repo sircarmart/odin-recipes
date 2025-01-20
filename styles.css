@@ -1,0 +1,21 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+html {
+    background-color: #ffc0cb;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1, h2 {
+    text-decoration: underline;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
