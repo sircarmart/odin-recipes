@@ -19,3 +19,18 @@ img {
     height: auto;
 }
 
+ul {
+    list-style: inside circle;
+}
+
+ul.index {
+    /* margin: 0 auto; */
+    /* width: 500; */
+    padding: 0;
+}
+
+.index > li {
+    /* background-color: coral; */
+    margin: 38px;
+    text-align: center;
+}
